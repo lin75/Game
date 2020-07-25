@@ -108,7 +108,7 @@ function gameEnd(){
  //  const image=document.createElement("img");
  // image.src="images/img10.jpg";
  // document.querySelector('.container').appendChild(image);
- document.getElementById('move').innerHTML="Congraution You Won!!!";
+ document.getElementById('move').innerHTML="Congratulation You Won!!!";
  document.getElementById("move").style.color = "red";
  document.getElementById("myBtn").disabled = true;
  document.getElementById("myBtn").innerHTML="Refresh Website To Play Again";
